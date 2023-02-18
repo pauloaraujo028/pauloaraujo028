@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Paulo+Araújo+Desenvolvedor+Front-End+Jr&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Paulo+Araújo+Dev&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Araújo!;tenho+28+anos,;Eu+moro+no+Brasil,+SP;+estudo+Análise+e+desenvolvimento+de+Sistemas;Seja+bem-vindo!;HELLO,+My+name+is+Paulo+Araújo!;I'm+28+years+old,;I+live+in+Brazil,+SP;I+study+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
@@ -29,6 +29,12 @@
  <img align="center" alt="TailwindCSS" src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </div><br/>
 
+## 📚 Studying in this moment:
+<div style="display: inline_block"><br/>
+ <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+ <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+</div><br/>
+
 ## 🛠 Tools:
 <div style="display: inline_block"><br/>
  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
@@ -44,12 +50,6 @@
  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
  <img align="center" alt="Selenium" src="https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
-</div><br/>
-  
-## 📚 Studying in this moment:
-<div style="display: inline_block"><br/>
- <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
- <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
 </div><br/>
 
 <p align="center">
