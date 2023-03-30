@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Paulo+Araújo+Software+Developer+Jr+💻&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Araújo!;tenho+28+anos,;Eu+moro+no+Brasil,+SP;+estudo+Análise+e+desenvolvimento+de+Sistemas;Seja+bem-vindo!;HELLO,+My+name+is+Paulo+Araújo!;I'm+28+years+old,;I+live+in+Brazil,+SP;I+study+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Araújo!;tenho+29+anos,;Eu+moro+no+Brasil,+SP;+estudo+Análise+e+desenvolvimento+de+Sistemas;Seja+bem-vindo!;HELLO,+My+name+is+Paulo+Araújo!;I'm+29+years+old,;I+live+in+Brazil,+SP;I+study+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
  <a href="https://pauloaraujo-portfolio.netlify.app/" target="_blank" rel='noreferrer'><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a><a href="https://www.linkedin.com/in/pauloaraujo028" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
@@ -31,8 +31,10 @@
 
 ## 📚 Studying in this moment:
 <div style="display: inline_block"><br/>
+ <img align="center" alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
  <img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
  <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" />
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
  <img align="center" alt="Postgres" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div><br/>
 
