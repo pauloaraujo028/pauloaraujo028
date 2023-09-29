@@ -3,10 +3,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Paulo+Araújo!;tenho+29+anos,;Eu+moro+no+Brasil,+SP;+estudo+Análise+e+desenvolvimento+de+Sistemas;Seja+bem-vindo!;HELLO,+My+name+is+Paulo+Araújo!;I'm+29+years+old,;I+live+in+Brazil,+SP;I+study+Analysis+and+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">
- <a href="https://pauloaraujo-portfolio.netlify.app/" target="_blank" rel='noreferrer'><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a><a href="https://www.linkedin.com/in/pauloaraujo028" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- <a href = "mailto:pauloaraujo.phz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://pauloaraujo-portfolio.netlify.app/" target="blank" rel='noreferrer'><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" target="_blank"></a><a href="https://www.linkedin.com/in/pauloaraujo028" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="blank"></a>
+ <a href = "mailto:pauloaraujo.phz@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="blank"></a>
  <a href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
- <a href="https://www.tiktok.com/@phz.dev" target="_blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
+ <a href="https://www.tiktok.com/@phz.dev" target="blank"><img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">  
